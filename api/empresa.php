@@ -11,7 +11,10 @@
 </head>                                       
 <body>
     
-    <?php include('header.php'); ?>
+    <?php
+    $empresa = "active";
+    include('header.php');
+    ?>
     
     <section class="container-fluid m-0 p-0" style="position: relative; overflow: hidden; height: 526px;">
         <img src="https://static.wixstatic.com/media/fa3eb5_9edf0cf652ba44008f0c9385b8829d50~mv2.png/v1/fill/w_1151,h_667,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/fa3eb5_9edf0cf652ba44008f0c9385b8829d50~mv2.png" alt="FACHADA.png" width="980" height="783" style="position: absolute; top:-144px; width: 100%; height: 783px; object-fit: cover; object-position: 50% 50%; z-index: 1;" fetchpriority="high">

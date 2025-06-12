@@ -11,7 +11,10 @@
 </head>                                       
 <body>
     
-    <?php include('header.php'); ?>
+    <?php
+    $evo360 = "color: #3d9be9;";
+    include('header.php');
+    ?>
 
     <section class="container-md" style="margin-bottom: 130px;">
         <div class="row">

@@ -11,7 +11,10 @@
 </head>                                       
 <body>
     
-    <?php include('header.php'); ?>
+    <?php
+    $service360 = "color: #3d9be9;";
+    include('header.php');
+    ?>
 
     <section class="container-md" style="margin-bottom: 58px;">
         <div class="row">

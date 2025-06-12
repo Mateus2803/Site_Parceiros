@@ -11,7 +11,10 @@
 </head>                                       
 <body>
     
-    <?php include('header.php'); ?>
+    <?php
+    $ultra360 = "color: #3d9be9;";
+    include('header.php');
+    ?>
 
     <section class="container-md" style="margin-bottom: 40px;">
         <div class="row">

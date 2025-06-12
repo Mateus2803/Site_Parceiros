@@ -11,7 +11,10 @@
 </head>                                       
 <body>
     
-    <?php include('header.php'); ?>
+    <?php
+    $mei_segmento = "color: #3d9be9;";
+    include('header.php');
+    ?>
 
     <section class="container-fluid m-0 p-0" style="position: relative;">
         <video id="comp-lxkt0mdi1_video" class="K8MSra" crossorigin="anonymous" loop muted autoplay="autoplay" src="https://video.wixstatic.com/video/11062b_cf4bd05f09fa497ea4e79b88188b3753/1080p/mp4/file.mp4" style="position: absolute; top:0;height: 100%; width: 100%; object-fit: cover; object-position: center center; opacity: 1; z-index: 1;"></video>

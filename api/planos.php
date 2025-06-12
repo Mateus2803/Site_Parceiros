@@ -11,7 +11,10 @@
 </head>                                       
 <body>
     
-    <?php include('header.php'); ?>
+    <?php
+    $planos = "active";
+    include('header.php');
+    ?>
 
     <section class="container-md">
         <div style="max-width:895px; margin: 0 auto; text-align:center; padding: 50px; color:#000000;">

@@ -11,7 +11,10 @@
 </head>                                       
 <body>
     
-    <?php include('header.php'); ?>
+    <?php
+    $funcionalidades = "active";
+    include('header.php');
+    ?>
 
     <section class="container-md">
         <div class="row">

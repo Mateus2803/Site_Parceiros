@@ -11,7 +11,10 @@
 </head>                                       
 <body>
     
-    <?php include('header.php'); ?>
+    <?php
+    $tecnologia = "color: #3d9be9;";
+    include('header.php');
+    ?>
 
     <section class="container-fluid m-0 p-0" style="position: relative;">
         <video id="comp-lxksh0401_video" class="K8MSra" crossorigin="anonymous" loop muted autoplay="autoplay" src="https://video.wixstatic.com/video/11062b_edf7139cd7854e50a67e824e22586d1c/1080p/mp4/file.mp4" style="position: absolute; top:0;height: 100%; width: 100%; object-fit: cover; object-position: center center; opacity: 1; z-index: 1;"></video>
