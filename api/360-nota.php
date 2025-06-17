@@ -31,13 +31,10 @@
                     <p class="text-secondary" style="font-size: 18px; line-height: 1.4em; font-weight: 400;">
                         Simples e eficiente, o <b style="color: #40CEDA;">360 Nota</b> oferece as ferramentas essenciais para quem precisa cumprir obrigações fiscais e ter o controle de estoque do seu negócio.
                     </p>
-                    <p class="text-secondary" style="font-size: 18px; line-height: 1.4em; font-weight: 400;">
-                        Uma excelente opção para revendedores que querem oferecer uma solução específica para negócios que precisam se regularizar <b style="color: #40CEDA;">sem complicação</b>.
-                    </p>
                 </div>
             </div>
             <div class="col">
-                <div style="position: relative; margin: 160px 0px 65px calc((100% - 686px) * 0.5); width: 605px; height: 433px;">
+                <div style="position: relative; margin: 0px 0px 65px calc((100% - 686px) * 0.5); width: 605px; height: 433px;">
                     <img src="https://static.wixstatic.com/media/fa3eb5_d3512b3e7b974efc9d1e540e36bfd69d~mv2.png/v1/fill/w_588,h_550,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20NOTA.png 1x, https://static.wixstatic.com/media/fa3eb5_d3512b3e7b974efc9d1e540e36bfd69d~mv2.png/v1/fill/w_1176,h_1100,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20NOTA.png 2x" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
     
                     <img src="https://static.wixstatic.com/media/fa3eb5_6b5164e8abe8463e9cea0af525cce1f0~mv2.png/v1/fill/w_247,h_324,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/NOTA%20FISCAL.png 1x, https://static.wixstatic.com/media/fa3eb5_6b5164e8abe8463e9cea0af525cce1f0~mv2.png/v1/fill/w_494,h_648,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/NOTA%20FISCAL.png 2x" alt="" style="position: absolute; left: -71px; top: 243px; width: 247px; height: 324px; object-fit: cover;" width="247" height="324" fetchpriority="high">
@@ -51,7 +48,7 @@
         <div class="container-md" style="text-align:center; color: #fff; padding-top: 30px; padding-bottom: 20px;">
             <div class="d-flex justify-content-center">
                 <p class="card-text" style="font-size: 25px; line-height: 1.6em; font-weight: bold; margin-right: 45px;">
-                    Seja nosso parceiro White Label
+                    Agende uma demonstração agora!
                 </p>
                 <a href="<?php echo $link_whats.$text_whats;?>" target="_blank">
                     <button type="button" id="btn-entrar-contatoNota" class="btn btn-dark rounded-pill" style="font-size: 15px; font-weight: 700; width: 186px; height: 43px;">
@@ -126,28 +123,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-    <section class="container-fluid m-0 p-0" style="position: relative; overflow: hidden; background-color: #000;">
-        <div class="container-md" style="text-align:center; padding: 50px; color: #fff; position: relative; max-width: 968px; margin: 0 auto; z-index: 10;">
-            <h1 style="font-size: 66px; font-weight: 700; color: #40CEDA;">
-                360 Nota
-            </h1>
-            <h1 style="font-size: 42px; font-weight: 700;">
-                que é a cara do Seu Negócio!
-            </h1>
-            <br>
-            <br>
-            <p style="font-size: 18px; letter-spacing: normal; line-height: 1.4em; font-weight: normal;">
-                Já pensou em ter um dos melhores <b>sistemas de gestão</b> com apenas a sua marca estampada nele? E o melhor: sem se preocupar com a etapa de desenvolvimento ou manutenção?
-            ​</p>
-            <p style="font-size: 18px; letter-spacing: normal; line-height: 1.4em; font-weight: normal;">
-                Em parceria com a Prontosoft isso é possível! Você aproveita as funcionalidades do 360 Nota, mas tudo com a identidade da sua marca.
-            ​</p>
-            <p style="font-size: 18px; letter-spacing: normal; line-height: 1.4em; font-weight: normal;">
-                Nós somos responsáveis por toda infraestrutura, servidores, backups, cargas, serviços estruturais, atualizações e as respectivas manutenções. Personalizamos nossos produtos com sua cara.
-            ​</p>
         </div>
     </section>
     

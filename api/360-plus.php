@@ -31,13 +31,10 @@
                     <p class="text-secondary" style="font-size: 18px; line-height: 1.4em; font-weight: 400;">
                         Ele inclui todas as <b style="color: #FFAC2E;">funções essenciais</b> para o gerenciamento de um negócio, como vendas, emissão de notas fiscais e controle financeiro, mas sem recursos como loja virtual, cardápio digital e acesso mobile.
                     </p>
-                    <p class="text-secondary" style="font-size: 18px; line-height: 1.4em; font-weight: 400;">
-                        Ótima opção para revendedores que querem oferecer um software eficiente para quem busca <b style="color: #FFAC2E;">otimizar processos</b> sem grandes investimentos.
-                    </p>
                 </div>
             </div>
             <div class="col">
-                <div style="position: relative; margin: 88px 0px 65px calc((100% - 635px) * 0.5); width: 605px; height: 433px;">
+                <div style="position: relative; margin: 0px 0px 65px calc((100% - 635px) * 0.5); width: 605px; height: 433px;">
                     <img src="https://static.wixstatic.com/media/fa3eb5_3915d3a58e4a41e69dfd92f7387bf144~mv2.png/v1/fill/w_591,h_552,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20PLUS.png 1x, https://static.wixstatic.com/media/fa3eb5_3915d3a58e4a41e69dfd92f7387bf144~mv2.png/v1/fill/w_1182,h_1104,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20PLUS.png 2x" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
     
                     <img src="https://static.wixstatic.com/media/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png/v1/fill/w_229,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png 1x, https://static.wixstatic.com/media/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png/v1/fill/w_458,h_562,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png 2x" alt="" style="position: absolute; left: 312px; top: 326px; width: 229px; height: 281px; object-fit: cover;" width="229" height="281" fetchpriority="high">
@@ -52,7 +49,7 @@
         <div class="container-md" style="text-align:center; color: #fff; padding-top: 30px; padding-bottom: 20px;">
             <div class="d-flex justify-content-center">
                 <p class="card-text" style="font-size: 25px; line-height: 1.6em; font-weight: bold; color: #2f2e2e; margin-right: 45px;">
-                    Seja nosso parceiro White Label
+                    Agende uma demonstração agora!
                 </p>
                 <a href="<?php echo $link_whats.$text_whats;?>" target="_blank">
                     <button type="button" id="btn-entrar-contatoPlus" class="btn btn-dark rounded-pill" style=" font-size: 15px; font-weight: 700; width: 186px; height: 43px;">
@@ -125,28 +122,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-    <section class="container-fluid m-0 p-0" style="position: relative; overflow: hidden; background-color: #000;">
-        <div class="container-md" style="text-align:center; padding: 50px; color: #fff; position: relative; max-width: 968px; margin: 0 auto; z-index: 10;">
-            <h1 style="font-size: 66px; font-weight: 700; color: #FFAC2E;">
-                360 Plus
-            </h1>
-            <h1 style="font-size: 42px; font-weight: 700;">
-                que é a cara do Seu Negócio!
-            </h1>
-            <br>
-            <br>
-            <p style="font-size: 18px; letter-spacing: normal; line-height: 1.4em; font-weight: normal;">
-                Já pensou em ter um dos melhores <b>sistemas de gestão</b> com apenas a sua marca estampada nele? E o melhor: sem se preocupar com a etapa de desenvolvimento ou manutenção?
-            ​</p>
-            <p style="font-size: 18px; letter-spacing: normal; line-height: 1.4em; font-weight: normal;">
-                Em parceria com a Prontosoft isso é possível! Você aproveita as funcionalidades do 360 Plus  White Label, mas tudo com a identidade da sua marca.
-            ​</p>
-            <p style="font-size: 18px; letter-spacing: normal; line-height: 1.4em; font-weight: normal;">
-                Nós somos responsáveis por toda infraestrutura, servidores, backups, cargas, serviços estruturais, atualizações e as respectivas manutenções. Personalizamos nossos produtos com sua cara.
-            ​</p>
         </div>
     </section>
     

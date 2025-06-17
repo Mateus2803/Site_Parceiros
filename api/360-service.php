@@ -31,13 +31,10 @@
                     <p class="text-secondary" style="font-size: 18px; line-height: 1.4em; font-weight: 400;">
                         Com ferramentas voltadas para o acompanhamento de serviços, o  <b style="color: #E57414;">360 Service</b> garante uma gestão eficiente e completa para quem precisa de controle de ponta a ponta.
                     </p>
-                    <p class="text-secondary" style="font-size: 18px; line-height: 1.4em; font-weight: 400;">
-                        Perfeito para revendedores que atendem <b style="color: #E57414;">profissionais liberais</b> e prestadores de serviços que precisam de uma gestão eficiente e descomplicada.
-                    </p>
                 </div>
             </div>
             <div class="col">
-                <div style="position: relative; margin: 160px 0px 65px calc((100% - 686px) * 0.5); width: 605px; height: 433px;">
+                <div style="position: relative; margin: 0px 0px 65px calc((100% - 686px) * 0.5); width: 605px; height: 433px;">
                     <img src="https://static.wixstatic.com/media/fa3eb5_032ad7542c90413d8e974385115f34c8~mv2.png/v1/fill/w_590,h_551,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20SERVICE.png 1x, https://static.wixstatic.com/media/fa3eb5_032ad7542c90413d8e974385115f34c8~mv2.png/v1/fill/w_1180,h_1102,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20SERVICE.png 2x" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
     
                     <img src="https://static.wixstatic.com/media/fa3eb5_b003677beaaa431f85c28f768e59fde6~mv2.png/v1/fill/w_266,h_349,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_b003677beaaa431f85c28f768e59fde6~mv2.png 1x, https://static.wixstatic.com/media/fa3eb5_b003677beaaa431f85c28f768e59fde6~mv2.png/v1/fill/w_532,h_698,al_c,lg_1,q_90,enc_avif,quality_auto/fa3eb5_b003677beaaa431f85c28f768e59fde6~mv2.png 2x" alt="" style="position: absolute; left: -71px; top: 243px; width: 247px; height: 324px; object-fit: cover;" width="247" height="324" fetchpriority="high">
@@ -51,7 +48,7 @@
         <div class="container-md" style="text-align:center; color: #fff; padding-top: 30px; padding-bottom: 20px;">
             <div class="d-flex justify-content-center">
                 <p class="card-text" style="font-size: 25px; line-height: 1.6em; font-weight: bold; margin-right: 45px;">
-                    Seja nosso parceiro White Label
+                    Agende uma demonstração agora!
                 </p>
                 <a href="<?php echo $link_whats.$text_whats;?>" target="_blank">
                     <button type="button" id="btn-entrar-contatoService" class="btn btn-dark rounded-pill" style="font-size: 15px; font-weight: 700; width: 186px; height: 43px;">
@@ -127,28 +124,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-    <section class="container-fluid m-0 p-0" style="position: relative; overflow: hidden; background-color: #000;">
-        <div class="container-md" style="text-align:center; padding: 50px; color: #fff; position: relative; max-width: 968px; margin: 0 auto; z-index: 10;">
-            <h1 style="font-size: 66px; font-weight: 700; color: #E57414;">
-                360 Service
-            </h1>
-            <h1 style="font-size: 42px; font-weight: 700;">
-                que é a cara do Seu Negócio!
-            </h1>
-            <br>
-            <br>
-            <p style="font-size: 18px; letter-spacing: normal; line-height: 1.4em; font-weight: normal;">
-                Já pensou em ter um dos melhores <b>sistemas de gestão</b> com apenas a sua marca estampada nele? E o melhor: sem se preocupar com a etapa de desenvolvimento ou manutenção?
-            ​</p>
-            <p style="font-size: 18px; letter-spacing: normal; line-height: 1.4em; font-weight: normal;">
-                Em parceria com a Prontosoft isso é possível! Você aproveita as funcionalidades do 360 O.S, mas tudo com a identidade da sua marca.
-            ​</p>
-            <p style="font-size: 18px; letter-spacing: normal; line-height: 1.4em; font-weight: normal;">
-                Nós somos responsáveis por toda infraestrutura, servidores, backups, cargas, serviços estruturais, atualizações e as respectivas manutenções. Personalizamos nossos produtos com sua cara.
-            ​</p>
         </div>
     </section>
     

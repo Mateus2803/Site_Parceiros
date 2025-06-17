@@ -290,6 +290,81 @@
         </div>
     </section>
     
+    <section class="container-md">
+        <div style="max-width:895px; margin: 0 auto; text-align:center; padding-top: 50px; color:#000000;">
+            <h1 style="font-size: 53px; line-height: 1.4em; font-weight: 400;">
+                TIRE SUAS DÚVIDAS
+            </h1>
+        </div>
+        
+        <div class="accordion" id="accordionPlanos" style="max-width:950px; margin: 0 auto; padding-bottom: 50px; font-family: 'Kanit'; ">
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button focus-ring focus-ring-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        Qual plano é o ideal para o meu tipo de negócio?
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionPlanos">
+                    <div class="accordion-body">
+                        Cada plano foi criado para atender perfis diferentes de empreendedores. Se você precisa de uma gestão completa com loja virtual, o <b>360 Pro</b> pode ser o ideal. Já o <b>360 Ultra</b> é mais robusto para empresas com demandas mais avançadas. Para atividades específicas como prestação de serviço, temos o <b>360 Service</b>.
+                        <br>
+                        <br>
+                        Se ainda tiver dúvidas, fale com um consultor para receber uma indicação personalizada.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button focus-ring focus-ring-light collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        Posso migrar de plano depois que contratar?
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionPlanos">
+                    <div class="accordion-body">
+                        <b>Sim!</b> Você pode começar com o plano que melhor se encaixa na sua realidade atual e migrar para outro conforme seu negócio evolui. A migração é simples e o histórico de dados é mantido.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button focus-ring focus-ring-light collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        Os planos já incluem suporte técnico?
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionPlanos">
+                    <div class="accordion-body">
+                        <b>Sim.</b> Todos os planos da Prontosoft oferecem suporte técnico especializado. O atendimento pode variar conforme o plano, mas você sempre contará com nossa equipe para te ajudar.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button focus-ring focus-ring-light collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        Preciso instalar algum programa para utilizar os sistemas?
+                    </button>
+                </h2>
+                <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionPlanos">
+                    <div class="accordion-body">
+                        <b>Não.</b> Como nossos sistemas funcionam em núvem, você podem acessar via web, seja de um computador ou celular. Lembrando que nossos sistemas não possuem limite de cadastro de usuários nem de acessos simultâneos,  o que garante mais liberdade e agilidade na gestão.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button focus-ring focus-ring-light collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        Os dados da minha empresa estão seguros?
+                    </button>
+                </h2>
+                <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionPlanos">
+                    <div class="accordion-body">
+                        Totalmente. Utilizamos tecnologias confiáveis e criptografia para garantir que todos os dados da sua empresa estejam sempre protegidos, seguindo as diretrizes da LGPD.
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+    </section>
+
     <?php
     $bgFaleConosco = '#4486F6;';
     include('fale-conosco.php');

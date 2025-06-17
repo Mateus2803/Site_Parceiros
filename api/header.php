@@ -3,8 +3,7 @@
     include('dados-parceiro.php');
 
     //Menu
-    if(!isset($home))           { $home            = ""; }
-    if(!isset($empresa))        { $empresa         = ""; }
+    if(!isset($inicio))         { $inicio            = ""; }
     if(!isset($funcionalidades)){ $funcionalidades = ""; }
     if(!isset($planos))         { $planos          = ""; }
 
@@ -40,10 +39,7 @@
         <div class="w-100">
         <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll justify-content-center" style="--bs-scroll-height: 100px;">
             <li class="nav-item">
-            <a class="nav-link <?php echo $home; ?>" aria-current="page" href="home.php">Home</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link <?php echo $empresa; ?>" aria-current="page" href="empresa.php">Empresa</a>
+                <a class="nav-link <?php echo $inicio; ?>" aria-current="page" href="inicio.php">Início</a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">

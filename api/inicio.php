@@ -24,11 +24,14 @@
                 </div>
             </div>
             <div class="col">
-                <div style="margin: 162px 0px 0 calc((100% - 440px) * 0.5); width: 440px; height: auto;">
-                    <span style="font-size: 56px; line-height: 1.2em;">Tenha o melhor sistema<br><b>PDV</b> e <b>ERP!</b></span>
+                <div style="margin: 142px 0px 0 calc((100% - 542px) * 0.5); width: 542px; height: auto;">
+                    <p style="font-size: 50px; line-height: 1.2em; font-weight: 600;">
+                        Transforme a<br>gestão de pequenas<br>empresas!
+                    </p>
                     <br>
                     
-                    <span class="text-secondary" style="font-size: 20px; line-height: 1.2em;">Tudo em uma só plataforma e<br>100% online!</span>
+                    <span class="text-secondary" style="font-size: 20px; line-height: 1.2em;">
+                        Soluções completas e inovadoras que simplificam a rotina do comércio, com automação eficiente para emissão de notas fiscais, controle de estoque e gestão financeira.</span>
                     <br>
                     <br>
                     <br>
@@ -53,7 +56,7 @@
             <div style="text-align: left; width: 879px; height: auto; margin: 36px auto;">
                 <span style="font-size: 18px; letter-spacing: normal; line-height: normal; font-weight: normal;">
                     Aqui você vai encontrar a solução para tornar a gestão da sua empresa algo agradável e fácil de<br>
-                    usar. A PRONTOSOFT trabalha com  sistemas de gerenciamento via web.
+                    usar.
                     <br>
                     <br>
                     Dessa forma você conseguirá administrar os seus negócios de qualquer lugar utilizando um<br>
@@ -172,14 +175,6 @@
                     <br>
                     Assim você foca na sua atividade e deixa conosco os cuidados com seu sistema de gestão. Trabalhe online<br>
                     como se estivesse no local.
-                    <br>
-                    <br>
-                    Esteja onde estiver, de qualquer lugar, para acessar o PRONTOSOFT você precisará apenas de um<br>
-                    computador, smartphone ou tablet com acesso à internet. Faça seu login e pronto!
-                    <br>
-                    <br>
-                    A Ferramenta certa em tempo real, à qualquer hora  em qualquer lugar! Acelere seus resultados com<br>
-                    soluções da PRONTOSOFT.
                 </span>
             </div>
         </div>
@@ -189,7 +184,7 @@
         <div class="row" style="width: 1125px; margin: 0 auto;">
             <div class="col">
                 <div style="margin: 54px 0px 0 calc((100% - 440px) * 0.5); width: 440px; height: auto;">
-                    <span style="font-size: 56px; line-height: 0.9em; color:#FCC40A;">PRONTO</span>
+                    <span style="font-size: 76px; line-height: 0.9em; color:#FCC40A;">360</span>
                     <br>
                     <span style="font-size: 96px; line-height: 0.9em; margin-left: -5px; color:#FCC40A;">MOBILE</span>
                     <br>
@@ -198,10 +193,10 @@
                         O poder do agora em tempo real, quanto dinheiro você perdeu hoje porque sua empresa não utiliza um sistema de controle de vendas móvel.
                         <br>
                         <br>
-                        O Pronto Mobile é a sua equipe de vendas automatizada, integrada, ágil e mais lucrativa. Aproveite todas as oportunidades de fechar um negócio.
+                        O 360 Mobile é a sua equipe de vendas automatizada, integrada, ágil e mais lucrativa. Aproveite todas as oportunidades de fechar um negócio.
                         <br>
                         <br>
-                        Com o Pronto Mobile é possível gerar vendas, orçamentos, cadastros de clientes, dashboard e relatórios de vendas tudo em tempo real.
+                        Com o 360 Mobile é possível gerar vendas, orçamentos, cadastros de clientes, dashboard e relatórios de vendas tudo em tempo real.
                         <br>
                         <br>
                         Tenha a vantagem de trabalhar offline e online com seu smartphone ou tablet, permitindo sempre ao seu vendedor aproveitar a chance de fechar um ótimo negócio.
@@ -336,43 +331,7 @@
     </section>
 
     <section class="container-md">
-        <div style="text-align:center; padding: 50px; color:#605e5e">
-            <span style="font-family: 'Cairo', sans-serif; font-size: 68px; line-height: 0.2em; font-weight: 200;">
-                JÁ ESTAMOS POR TODO O BRASIL<br>
-                <span style="font-size: 28px;"> E EM MAIS DE 4 PAISES!</span>
-            </span>
-        </div>
-        <div class="row">
-            <div class="col">
-                <div style="margin: 0px 0px 65px calc((100% - 533px) * 0.5); width: 533px; height: 533px;">
-                    <img src="https://static.wixstatic.com/media/fa3eb5_c31721f128114f30ba7122a2d62853c7~mv2.png/v1/fill/w_533,h_498,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/MAPA%202.png" alt="PRODUTOS 03.png" style="width:533px; height:498px; object-fit:cover;" width="533" height="498" fetchpriority="high">
-                </div>
-            </div>
-            <div class="col">
-                <div style="margin: 12px 0px 0 calc((100% - 494px) * 0.5); width: 440px; height: auto; font-family: 'Cairo', sans-serif;">
-                    <span class="text-secondary" style="font-size: 22px; line-height: 1.4em; font-weight: 200;">
-                        Nossos produtos já tem facilitado a vida de <br>milhares de empreendedores pelo <b>Brasil e pelo <br>mundo</b>.
-                        <br>
-                        <br>
-                        Atualmente, já estamos presentes em mais de <br><b>800 cidades</b> pelo Brasil e em mais de 4 paises.
-                        <br>
-                        <br>
-                        Já são mais de <b>5.000 clientes</b> atendidos e <br>satisfeitos.
-                        <br>
-                        <br>
-                        Descubra como a <b>Prontosoft</b> pode ajudar você e seu negócio hoje mesmo.
-                    </span>
-                    <br>
-                    <br>
-                    <br>
-                    <a href="<?php echo $link_whats.$text_whats;?>" target="_blank">
-                        <button type="button" class="btn btn-dark rounded-pill" style="font-size: 15px; font-weight: 700; width: 186px; height: 43px;">
-                            Saiba Mais&nbsp;&nbsp;&nbsp;<i class="fa-solid fa-arrow-right"></i>
-                        </button>
-                    </a>
-                </div>
-            </div>
-        </div>
+        
     </section>
     
     <?php
