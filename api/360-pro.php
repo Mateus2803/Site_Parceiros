@@ -38,7 +38,7 @@
             </div>
             <div class="col">
                 <div style="position: relative; margin: 0px 0px 65px calc((100% - 635px) * 0.5); width: 605px; height: 433px;">
-                    <img src="https://static.wixstatic.com/media/fa3eb5_496a24918a2d4362b640e5601551e941~mv2.png/v1/fill/w_593,h_555,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20PRO.png 1x, https://static.wixstatic.com/media/fa3eb5_496a24918a2d4362b640e5601551e941~mv2.png/v1/fill/w_1186,h_1110,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20PRO.png 2x" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
+                    <img src="../img/MONITOR_PRO.png" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
     
                     <img src="https://static.wixstatic.com/media/fa3eb5_f1b7f284c55445549dc6188eb065aaf3~mv2.png/v1/fill/w_224,h_239,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_f1b7f284c55445549dc6188eb065aaf3~mv2.png 1x, https://static.wixstatic.com/media/fa3eb5_f1b7f284c55445549dc6188eb065aaf3~mv2.png/v1/fill/w_448,h_478,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_f1b7f284c55445549dc6188eb065aaf3~mv2.png 2x" alt="" style="position: absolute; left: 2px; top: 327px; width: 224px; height: 239px; object-fit: cover;" width="224" height="239" fetchpriority="high">
                 </div>

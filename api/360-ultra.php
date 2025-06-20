@@ -38,7 +38,7 @@
             </div>
             <div class="col">
                 <div style="position: relative; margin: 0px 0px 65px calc((100% - 635px) * 0.5); width: 605px; height: 433px;">
-                    <img src="https://static.wixstatic.com/media/fa3eb5_be7e9204a0044cfc9b22c71ac03b5504~mv2.png/v1/fill/w_605,h_565,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20ULTRA.png 1x, https://static.wixstatic.com/media/fa3eb5_be7e9204a0044cfc9b22c71ac03b5504~mv2.png/v1/fill/w_1210,h_1130,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20ULTRA.png 2x" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
+                    <img src="../img/MONITOR_ULTRA.png" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
     
                     <img src="https://static.wixstatic.com/media/fa3eb5_8e89f447ee60405a8a14cd154ac1c230~mv2.png/v1/fill/w_236,h_292,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PHONE%20MOCKUP.png 1x, https://static.wixstatic.com/media/fa3eb5_8e89f447ee60405a8a14cd154ac1c230~mv2.png/v1/fill/w_472,h_584,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PHONE%20MOCKUP.png 2x" alt="" style="position: absolute; left: 319px; top: 347px; width: 236px; height: 292px; object-fit: cover;" width="236" height="292" fetchpriority="high">
                 </div>

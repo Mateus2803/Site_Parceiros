@@ -35,7 +35,7 @@
             </div>
             <div class="col">
                 <div style="position: relative; margin: 0px 0px 65px calc((100% - 686px) * 0.5); width: 605px; height: 433px;">
-                    <img src="https://static.wixstatic.com/media/fa3eb5_e410c25366f2435d857133cc8bf52252~mv2.png/v1/fill/w_559,h_523,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20MEI.png 1x, https://static.wixstatic.com/media/fa3eb5_e410c25366f2435d857133cc8bf52252~mv2.png/v1/fill/w_1118,h_1046,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20MEI.png 2x" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
+                    <img src="../img/MONITOR_MEI.png" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
                 </div>
             </div>
         </div>

@@ -35,7 +35,7 @@
             </div>
             <div class="col">
                 <div style="position: relative; margin: 0px 0px 65px calc((100% - 635px) * 0.5); width: 605px; height: 433px;">
-                    <img src="https://static.wixstatic.com/media/fa3eb5_3915d3a58e4a41e69dfd92f7387bf144~mv2.png/v1/fill/w_591,h_552,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20PLUS.png 1x, https://static.wixstatic.com/media/fa3eb5_3915d3a58e4a41e69dfd92f7387bf144~mv2.png/v1/fill/w_1182,h_1104,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20PLUS.png 2x" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
+                    <img src="../img/MONITOR_PLUS.png" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
     
                     <img src="https://static.wixstatic.com/media/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png/v1/fill/w_229,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png 1x, https://static.wixstatic.com/media/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png/v1/fill/w_458,h_562,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png 2x" alt="" style="position: absolute; left: 312px; top: 326px; width: 229px; height: 281px; object-fit: cover;" width="229" height="281" fetchpriority="high">
 

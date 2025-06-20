@@ -20,7 +20,7 @@
         <div class="row">
             <div class="col">
                 <div style="margin: 80px 0px 65px calc((100% - 572px) * 0.5); width: 572px; height: 572px;">
-                    <img src="https://static.wixstatic.com/media/fa3eb5_bffef2da26b74bfea770f048aa8198d7~mv2.png/v1/fill/w_636,h_572,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/PRODUTOS%2003.png" alt="PRODUTOS 03.png" style="width:636px;height:572px;object-fit:cover;" width="636" height="572" fetchpriority="high">
+                    <img src="../img/inicio_img.png" alt="PRODUTOS 03.png" style="width:636px;height:572px;object-fit:cover;" width="636" height="572" fetchpriority="high">
                 </div>
             </div>
             <div class="col">
@@ -331,7 +331,73 @@
     </section>
 
     <section class="container-md">
-        
+        <div style="max-width:995px; margin: 0 auto; text-align:center; padding: 50px; color: #000000;">
+            <h1 style="font-size: 53px; line-height: 1.4em; font-weight: 400;">
+                Todo tipo de negócio pode<br>aproveitar os benefícios do <strong style="color: #008AFC;">360</strong>
+            </h1>
+        </div>
+        <div class="row row-cols-1 row-cols-md-6 g-2" style="background-color: #FFF; max-width: 1075px; margin: 0 auto;">
+            <div class="col" style="margin-bottom: 60px;">
+                <div class="card h-100" style="border: none; text-align: center; color:#000; background-color: transparent;">
+                    <div id="comp-lxkqcgs06" style=" height: 100px; margin: 10px auto; object-fit: fill;">
+                        <img loading="lazy" id="" src="../img/mercadinho.png" alt="" style="object-fit: cover;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title" style="font-size: 18px; line-height: 1.4em; font-weight: 500;">Mercadinho</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col" style="margin-bottom: 60px;">
+                <div class="card h-100" style="border: none; text-align: center; color:#000; background-color: transparent;">
+                    <div id="comp-lxkqcgs06" style=" height: 100px; margin: 10px auto; object-fit: fill;">
+                        <img loading="lazy" id="" src="../img/confeccao.png" alt="" style="object-fit: cover;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title" style="font-size: 18px; line-height: 1.4em; font-weight: 500;">Confecção</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col" style="margin-bottom: 60px;">
+                <div class="card h-100" style="border: none; text-align: center; color:#000; background-color: transparent;">
+                    <div id="comp-lxkqcgs06" style=" height: 100px; margin: 10px auto; object-fit: fill;">
+                        <img loading="lazy" id="" src="../img/restaurantes.png" alt="" style="object-fit: cover;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title" style="font-size: 18px; line-height: 1.4em; font-weight: 500;">Restaurantes</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col" style="margin-bottom: 60px;">
+                <div class="card h-100" style="border: none; text-align: center; color:#000; background-color: transparent;">
+                    <div id="comp-lxkqcgs06" style=" height: 100px; margin: 10px auto; object-fit: fill;">
+                        <img loading="lazy" id="" src="../img/revendas_veiculos.png" alt="" style="object-fit: cover;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title" style="font-size: 18px; line-height: 1.4em; font-weight: 500;">Revenda de Veículos</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col" style="margin-bottom: 60px;">
+                <div class="card h-100" style="border: none; text-align: center; color:#000; background-color: transparent;">
+                    <div id="comp-lxkqcgs06" style=" height: 100px; margin: 10px auto; object-fit: fill;">
+                        <img loading="lazy" id="" src="../img/assistencia_tecnica.png" alt="" style="object-fit: cover;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title" style="font-size: 18px; line-height: 1.4em; font-weight: 500;">Assistência Técnica</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col" style="margin-bottom: 60px;">
+                <div class="card h-100" style="border: none; text-align: center; color:#000; background-color: transparent;">
+                    <div id="comp-lxkqcgs06" style=" height: 100px; margin: 10px auto; object-fit: fill;">
+                        <img loading="lazy" id="" src="../img/comercio_geral.png" alt="" style="object-fit: cover;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title" style="font-size: 18px; line-height: 1.4em; font-weight: 500;">Comércio em Geral</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
     
     <?php

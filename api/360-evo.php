@@ -37,8 +37,8 @@
                 </div>
             </div>
             <div class="col">
-                <div style="position: relative; margin: 88px 0px 65px calc((100% - 686px) * 0.5); width: 605px; height: 433px;">
-                    <img src="https://static.wixstatic.com/media/fa3eb5_5daa464115ba415f9c8e6436d5cc7ecd~mv2.png/v1/fill/w_591,h_552,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20EVO.png 1x, https://static.wixstatic.com/media/fa3eb5_5daa464115ba415f9c8e6436d5cc7ecd~mv2.png/v1/fill/w_1182,h_1104,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20EVO.png 2x" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
+                <div style="position: relative; margin: 0px 0px 65px calc((100% - 686px) * 0.5); width: 605px; height: 433px;">
+                    <img src="../img/MONITOR_EVO.png" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
     
                     <img src="https://static.wixstatic.com/media/fa3eb5_c86478f9abd14dcd985b08d41277869f~mv2.png/v1/fill/w_487,h_205,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/gaveta-gigapixel.png 1x, https://static.wixstatic.com/media/fa3eb5_c86478f9abd14dcd985b08d41277869f~mv2.png/v1/fill/w_974,h_410,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/gaveta-gigapixel.png 2x" alt="" style="position: absolute; left: 188px; top: 487px; width: 487px; height: 205px; object-fit: cover;" width="487" height="205" fetchpriority="high">
                     

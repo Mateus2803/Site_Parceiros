@@ -35,7 +35,7 @@
             </div>
             <div class="col">
                 <div style="position: relative; margin: 0px 0px 65px calc((100% - 686px) * 0.5); width: 605px; height: 433px;">
-                    <img src="https://static.wixstatic.com/media/fa3eb5_d3512b3e7b974efc9d1e540e36bfd69d~mv2.png/v1/fill/w_588,h_550,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20NOTA.png 1x, https://static.wixstatic.com/media/fa3eb5_d3512b3e7b974efc9d1e540e36bfd69d~mv2.png/v1/fill/w_1176,h_1100,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/MONITOR%20NOTA.png 2x" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
+                    <img src="../img/MONITOR_NOTA.png" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
     
                     <img src="https://static.wixstatic.com/media/fa3eb5_6b5164e8abe8463e9cea0af525cce1f0~mv2.png/v1/fill/w_247,h_324,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/NOTA%20FISCAL.png 1x, https://static.wixstatic.com/media/fa3eb5_6b5164e8abe8463e9cea0af525cce1f0~mv2.png/v1/fill/w_494,h_648,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/NOTA%20FISCAL.png 2x" alt="" style="position: absolute; left: -71px; top: 243px; width: 247px; height: 324px; object-fit: cover;" width="247" height="324" fetchpriority="high">
                     

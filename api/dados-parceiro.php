@@ -17,6 +17,6 @@ $cep         = "86010-470";
 
 $celular_whats = "5543999503018";
 $text_whats = "&text=Olá, eu gostaria de saber mais sobre o sistema.";
-$link_whats = "https://api.whatsapp.com/send?phone=${celular_whats}";
+$link_whats = "https://api.whatsapp.com/send?phone={$celular_whats}";
 
 ?>

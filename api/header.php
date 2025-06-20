@@ -31,7 +31,7 @@
 ?>
 <nav class="navbar navbar-expand-lg bg-body">
     <div class="container-xl">
-        <a class="navbar-brand" href="home.php" style="margin: 31px 0px 31px 0px;">
+        <a class="navbar-brand" href="inicio.php" style="margin: 31px 0px 31px 0px;">
             <img src="https://static.wixstatic.com/media/fa3eb5_3c46a3ef19634e8ca03debec6e996f01~mv2.png/v1/fill/w_109,h_58,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/360%20LOGO%20escura_edited.png 1x, https://static.wixstatic.com/media/fa3eb5_3c46a3ef19634e8ca03debec6e996f01~mv2.png/v1/fill/w_218,h_116,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/360%20LOGO%20escura_edited.png 2x" alt="Bootstrap" width="109" >
         </a>
         
@@ -76,7 +76,7 @@
                 <li><a class="dropdown-item" style="<?php echo $moda_vestuario; ?>" href="moda-e-vestuario.php">Moda e Vestuário</a></li>
                 <li><a class="dropdown-item" style="<?php echo $material_construcao; ?>" href="material-de-construcao.php">Material de Construção</a></li>
                 <li><a class="dropdown-item" style="<?php echo $tecnologia; ?>" href="tecnologia.php">Tecnologia</a></li>
-                <li><a class="dropdown-item" href="home.php" style="color: #3d9be9;">E muito mais.</a></li>
+                <li><a class="dropdown-item" href="inicio.php" style="color: #3d9be9;">E muito mais.</a></li>
             </ul>
             </li>
             <li class="nav-item">

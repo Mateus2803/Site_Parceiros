@@ -3,9 +3,8 @@
         <div class="d-flex justify-content-center" style=" margin-bottom: 25px;">
             <div class="card " style="width: 17rem; margin-left: 10px; margin-right: 10px; background-color:transparent; border: none;">
                 <div class="card-body">
-                    <a href="home.php" style="text-decoration: none;">
+                    <a href="inicio.php" style="text-decoration: none;">
                         <img src="https://static.wixstatic.com/media/fa3eb5_a9b643e778ea482286d39587368188c3~mv2.png/v1/fill/w_129,h_69,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/360%20LOGO_edited.png 1x, https://static.wixstatic.com/media/fa3eb5_a9b643e778ea482286d39587368188c3~mv2.png/v1/fill/w_258,h_138,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/360%20LOGO_edited.png 2x" width="129" height="69" style="width: 129px; height: 69px; margin: 0 auto; object-fit: fill;" class="card-img-top" alt="...">
-                        <p class="card-text" style="font-size: 15px; font-weight: normal; font-style: italic; color:#FFF; text-decoration:underline;">by Prontosoft</p>
                     </a>
                 </div>
             </div>
