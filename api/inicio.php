@@ -20,13 +20,13 @@
         <div class="row">
             <div class="col">
                 <div id="txt-inicio" style="margin: 20px 0px 0 calc((100% - 542px) * 0.5); max-width: 542px; height: auto;">
-                    <p style="font-size: 50px; line-height: 1.2em; font-weight: 600;">
-                        Transforme a<br>gestão de pequenas<br>empresas!
+                    <p style="font-size: 50px; line-height: 1.2em; font-weight: 700;">
+                        Transforme a gestão<br> de pequenas<br>empresas!
                     </p>
-                    <br>
                     
-                    <span class="text-secondary" style="font-size: 20px; line-height: 1.2em;">
-                        Soluções completas e inovadoras que simplificam a rotina do comércio, com automação eficiente para emissão de notas fiscais, controle de estoque e gestão financeira.</span>
+                    <span class="text-secondary" style="font-size: 18px; line-height: 1.2em;">
+                        Soluções completas e inovadoras que simplificam a rotina do comércio, com automação eficiente para emissão de notas fiscais, controle de estoque e gestão financeira.
+                    </span>
                     <br>
                     <br>
                     <br>
@@ -46,8 +46,8 @@
     </section>
 
     <section class="container-fluid m-0 p-0" style="background-color: #008AFC;">
-        <div style="text-align:center; padding: 50px; color: #fff; ">
-            <span style="font-family: 'Cairo', sans-serif; font-size: 37px; line-height: 1.2em; font-weight: 200;">
+        <div id="faca-como" style="text-align:center; padding: 50px; color: #fff; ">
+            <span id="span-faca-como" style="font-family: 'Cairo', sans-serif; font-size: 37px; line-height: 1.2em; font-weight: 200;">
                 Faça como milhares de clientes que já aderiram ao
                 <br>
                 <b>MELHOR SISTEMA DE GESTÃO PARA EMPRESAS!</b>
@@ -71,7 +71,7 @@
     </section>
 
     <section class="container-fluid m-0 p-0">
-        <div style="text-align:center; padding: 50px; color:#A0A09F">
+        <div id="porque-contratar" style="text-align:center; padding: 50px; color:#A0A09F">
             <span style="font-family: 'Cairo', sans-serif; font-size: 48px; line-height: 1.2em; font-weight: 200;">
                 POR QUE CONTRATAR
                 <br>
@@ -163,7 +163,7 @@
     <section class="container-fluid m-0 p-0" style="position: relative;">
         <video id="comp-jbmm8xrl_video" crossorigin="anonymous" loop muted autoplay="autoplay"src="https://video.wixstatic.com/video/11062b_40811fcc9cac4a5bbfb0d93aaa94d70d/1080p/mp4/file.mp4" style="position: absolute; top:0;height: 100%; width: 100%; object-fit: cover; object-position: center center; opacity: 1; z-index: 1;"></video>
         <div style="text-align:center; padding: 50px; color: #fff; position: relative; z-index: 10;">
-            <span style="font-size: 70px; line-height: 1.2em; font-weight: 200;">
+            <span id="porque-em-nuvem" style="font-size: 70px; line-height: 1.2em; font-weight: 200;">
                 PORQUE EM NUVEM?
             </span>
             <br>
@@ -329,8 +329,8 @@
     </section>
 
     <section class="container-md">
-        <div style="max-width:995px; margin: 0 auto; text-align:center; padding: 50px; color: #000000;">
-            <h1 id="txt-beneficios" style="font-size: 53px; line-height: 1.4em; font-weight: 400;">
+        <div id="txt-beneficios" style="max-width:995px; margin: 0 auto; text-align:center; padding: 50px; color: #000000;">
+            <h1 style="font-size: 53px; line-height: 1.4em; font-weight: 400;">
                 Todo tipo de negócio pode<br>aproveitar os benefícios do <strong style="color: #008AFC;">360</strong>
             </h1>
         </div>

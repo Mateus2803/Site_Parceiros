@@ -204,14 +204,45 @@ body,html{
 @media only screen and (max-width: 600px) {
 
     #txt-inicio {
-        margin: 0 !important;
+        margin: 0px 0px 20px 0px !important;
         width:100%!important;
+    }
+
+    #txt-inicio p {
+        font-size: 32px !important;
+        font-weight: 500 !important;
+    }
+
+    #txt-inicio span {
+        font-size: 16px !important;
     }
 
     #img-inicio {
         margin-top: 10px;
         margin-bottom: 10px;
         width:350px!important;
+    }
+
+    #faca-como{ padding: 30px !important; }
+
+    #span-faca-como {
+        font-size: 28px !important;
+    }
+
+    #span-faca-como b {
+        margin-top: 10px !important;
+    }
+
+    #porque-contratar {
+        padding: 30px !important;
+    }
+
+    #porque-contratar span {
+        font-size: 33px!important;
+    }
+
+    #porque-em-nuvem {
+        font-size: 38px!important;
     }
 
     #span-nossos-produtos {
@@ -242,7 +273,10 @@ body,html{
     }
 
     #txt-beneficios {
-        font-size: 28px!important;
+        padding: 30px 0px 0px 0px !important;
+    }
+    #txt-beneficios h1 {
+        font-size: 22px!important;
     }
 
     .tiposNegocio{
@@ -273,6 +307,14 @@ body,html{
 
     .icons-fale-conosco p{
         font-size: 10px !important;
+    }
+
+    .footerTxtCard {
+        padding-top: 0px !important;
+    }
+
+    .footerTxt {
+        text-align: center!important;
     }
 
 }
