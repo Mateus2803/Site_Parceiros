@@ -23,7 +23,7 @@
             </h1>
             <br>
             <p class="text-secondary" style="font-size: 18px; line-height: 1.4em; font-weight: 400; color:#000!important;">
-                Seja apenas para para a emissão de notas fiscais, ou até gerenciar todo o financeiro da sua empresa e ainda contar com uma loja virtual integrada, o <b>360 Saas</b> tem tudo o que você precisa para oferecer o melhor.
+                Seja apenas para para a emissão de notas fiscais, ou até gerenciar todo o financeiro da sua empresa e ainda contar com uma loja virtual integrada, o <b>360</b> tem tudo o que você precisa para oferecer o melhor.
             </p>
         </div>
     </section>

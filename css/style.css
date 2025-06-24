@@ -17,6 +17,16 @@ body,html{
     font-family: 'Montserrat', sans-serif;
 }
 
+#menuDescktop a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#menuDescktop .menuNavLink {
+    margin-left: 11px;
+    margin-right: 11px;
+}
 
 #navbarScroll a:hover {
     color: #3d9be9;
@@ -27,7 +37,7 @@ body,html{
 }
 #nossos-produtos .saibaMaisbtnsProduct {
     position: relative;
-    left: 57px;
+    
     background-color: #FFF;
     border-color:#FFF;
     font:normal normal 700 12px / 1.4em montserrat, sans-serif;
@@ -44,6 +54,14 @@ body,html{
 #btn-quero-conhecer:hover {
     background-color: #FFF;
     color: #3d9be9;
+}
+
+#span-nossos-produtos {
+    font-family: 'Cairo', sans-serif;
+    font-size: 78px;
+    line-height: 1.2em;
+    font-weight: 200;
+    color:#FFF
 }
 
 #saibaMaisbtnPro:hover {
@@ -180,4 +198,81 @@ body,html{
     font-size: 16px;
     color: rgb(96, 94, 94) !important;
     font-weight: unset;
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+
+    #txt-inicio {
+        margin: 0 !important;
+        width:100%!important;
+    }
+
+    #img-inicio {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width:350px!important;
+    }
+
+    #span-nossos-produtos {
+        font-size: 38px!important;
+    }
+
+    #comp-360mobile {
+        margin: 54px 0 !important;
+        width:100%!important;
+    }
+
+    #comp-360mobile .tit1{
+        font-size: 48px !important;
+    }
+    #comp-360mobile .tit2{
+        font-size: 68px !important;
+    }
+
+    #comp-lxkqcgs06 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width:350px!important;
+    }
+
+    #comp-imgSofa {
+        margin-top: 10px;
+        width:350px!important;
+    }
+
+    #txt-beneficios {
+        font-size: 28px!important;
+    }
+
+    .tiposNegocio{
+        margin-bottom: 10px !important;
+    }
+
+    #fale-conosco-title {
+         font-size: 28px !important;
+    }
+
+    #fale-conosco-title span {
+         font-size: 18px !important;
+    }
+    
+    .icons-fale-conosco {
+        
+        margin-left: 0px!important;
+        margin-right: 0px!important;
+    }
+    .icons-fale-conosco img{
+        width: 35px!important;
+        height: 34px!important;
+    }
+
+    #mail-icon {
+        height: 27px!important;
+    }
+
+    .icons-fale-conosco p{
+        font-size: 10px !important;
+    }
+
 }

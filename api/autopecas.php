@@ -46,7 +46,7 @@
                         Gestão organizada e eficiente para sua autopeças.<br>Garanta uma gestão que acelera o crescimento da sua autopeças.
                     </p>
                     <p class="text-secondary" style="font-size: 17px; line-height: 1.4em; font-weight: 400; color: #2f2e2e!important;">
-                        Com o 360 Saas, você conta com um sistema completo e integrado a todas as áreas do negócio.
+                        Com o 360, você conta com um sistema completo e integrado a todas as áreas do negócio.
                     </p>
                     <p class="text-secondary" style="font-size: 17px; line-height: 1.4em; font-weight: 400; color: #2f2e2e!important;">
                         Organize os produtos por marcas e tipos de automóveis, verifique mercadorias em falta com controle de estoque e conte com um módulo de controle financeiro com emissão de relatórios que apontam os principais números da empresa.

@@ -37,12 +37,12 @@
         
         <div class="collapse navbar-collapse" id="navbarScroll">
         <div class="w-100">
-        <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll justify-content-center" style="--bs-scroll-height: 100px;">
+        <ul id="menuDescktop" class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll justify-content-center" style="--bs-scroll-height: 100px;">
             <li class="nav-item">
-                <a class="nav-link <?php echo $inicio; ?>" aria-current="page" href="inicio.php">Início</a>
+                <a class="nav-link menuNavLink <?php echo $inicio; ?>" aria-current="page" href="inicio.php">Início</a>
             </li>
             <li class="nav-item dropdown">
-                <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link menuNavLink" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Soluções <i class="fa-solid fa-chevron-down" style="position: relative; font-size: 10px; top: -1px;"></i>
                 </a>
                 <ul class="dropdown-menu">
@@ -56,13 +56,13 @@
                 </ul>
             </li>
             <li class="nav-item">
-                <a class="nav-link <?php echo $funcionalidades; ?>" aria-current="page" href="funcionalidades.php">Funcionalidades</a>
+                <a class="nav-link menuNavLink <?php echo $funcionalidades; ?>" aria-current="page" href="funcionalidades.php">Funcionalidades</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link <?php echo $planos; ?>" aria-current="page" href="planos.php">Planos</a>
+                <a class="nav-link menuNavLink <?php echo $planos; ?>" aria-current="page" href="planos.php">Planos</a>
             </li>
             <li class="nav-item dropdown">
-                <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link menuNavLink" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Segmentos <i class="fa-solid fa-chevron-down" style="position: relative; font-size: 10px; top: -1px;"></i>
                 </a>
             <ul class="dropdown-menu">
@@ -80,14 +80,8 @@
             </ul>
             </li>
             <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#fale-conosco-section">Contato</a>
+                <a class="nav-link menuNavLink" aria-current="page" href="#fale-conosco-section">Contato</a>
             </li>
-            <!-- <li class="nav-item">
-            <a class="nav-link" href="#" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Sobre</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="#">Ajuda</a>
-            </li> -->
         </ul>
         </div>
         <div class="d-flex navbar-nav" style="min-width: 184px;">
@@ -98,5 +92,73 @@
             </a>
         </div>
         </div>
+
+        
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
     </div>
 </nav>
+
+
+
+<div class="container-fluid">
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasNavbarLabel"></h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                <li class="nav-item">
+                    <a class="nav-link menuNavLink <?php echo $inicio; ?>" aria-current="page" href="inicio.php">Início</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link menuNavLink" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Soluções <i class="fa-solid fa-chevron-down" style="position: relative; font-size: 10px; top: -1px;"></i>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" style="<?php echo $ultra360; ?>" href="360-ultra.php">360 ULTRA</a></li>
+                        <li><a class="dropdown-item" style="<?php echo $pro360; ?>" href="360-pro.php">360 PRO</a></li>
+                        <li><a class="dropdown-item" style="<?php echo $plus360; ?>" href="360-plus.php">360 PLUS</a></li>
+                        <li><a class="dropdown-item" style="<?php echo $evo360; ?>" href="360-evo.php">360 EVO</a></li>
+                        <li><a class="dropdown-item" style="<?php echo $nota360; ?>" href="360-nota.php">360 NOTA</a></li>
+                        <li><a class="dropdown-item" style="<?php echo $service360; ?>" href="360-service.php">360 SERVICE</a></li>
+                        <li><a class="dropdown-item" style="<?php echo $mei360; ?>" href="360-mei.php">360 MEI</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link menuNavLink <?php echo $funcionalidades; ?>" aria-current="page" href="funcionalidades.php">Funcionalidades</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link menuNavLink <?php echo $planos; ?>" aria-current="page" href="planos.php">Planos</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link menuNavLink" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Segmentos <i class="fa-solid fa-chevron-down" style="position: relative; font-size: 10px; top: -1px;"></i>
+                    </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" style="<?php echo $alimentos_bebidas; ?>" href="alimentos-e-bebidas.php">Alimentos e Bebidas</a></li>
+                    <li><a class="dropdown-item" style="<?php echo $autopecas; ?>" href="autopecas.php">Autopeças</a></li>
+                    <li><a class="dropdown-item" style="<?php echo $beleza_estetica; ?>" href="beleza-e-estetica.php">Beleza e Estética</a></li>
+                    <li><a class="dropdown-item" style="<?php echo $distribuidoras; ?>" href="distribuidoras.php">Distribuidoras</a></li>
+                    <li><a class="dropdown-item" style="<?php echo $pet_shop; ?>" href="pet-shop.php">Pet Shop</a></li>
+                    <li><a class="dropdown-item" style="<?php echo $mei_segmento; ?>" href="mei.php">MEI</a></li>
+                    <li><a class="dropdown-item" style="<?php echo $mecanica; ?>" href="mecanica.php">Mecânica</a></li>
+                    <li><a class="dropdown-item" style="<?php echo $moda_vestuario; ?>" href="moda-e-vestuario.php">Moda e Vestuário</a></li>
+                    <li><a class="dropdown-item" style="<?php echo $material_construcao; ?>" href="material-de-construcao.php">Material de Construção</a></li>
+                    <li><a class="dropdown-item" style="<?php echo $tecnologia; ?>" href="tecnologia.php">Tecnologia</a></li>
+                    <li><a class="dropdown-item" href="inicio.php" style="color: #3d9be9;">E muito mais.</a></li>
+                </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link menuNavLink" aria-current="page" href="#fale-conosco-section">Contato</a>
+                </li>
+            </ul>
+            <form class="d-flex mt-3" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+            <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+        </div>
+    </div>
+</div>
