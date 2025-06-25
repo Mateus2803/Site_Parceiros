@@ -94,7 +94,7 @@
         </div>
 
         
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+        <button id="btn-menu-mobile" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
     </div>
@@ -166,18 +166,14 @@
 <script>
     function myFunction() {
         var $offcanvasNavbar    = document.getElementById('offcanvasNavbar');
-        var $offcanvas_backdrop = document.querySelector('.offcanvas-backdrop').parentNode;
-
-            $offcanvas_backdrop.removeChild(document.querySelector('.offcanvas-backdrop'));
+        var $offcanvas_backdrop = document.querySelector('.offcanvas-backdrop').outerHTML = '';
 
             if ($offcanvasNavbar.classList.contains('show')) {
                 $offcanvasNavbar.classList.remove('show');
             }
 
-            $offcanvasNavbar.setAttribute('aria-labelledby', 'offcanvasNavbar');
-            $offcanvasNavbar.removeAttribute('aria-modal');
-            $offcanvasNavbar.removeAttribute('role');
-            document.querySelector('body').removeAttribute('style');
-            //scrollTo('fale-conosco-section');
+            $offcanvasNavbar.removeAttribute("aria-modal");
+            $offcanvasNavbar.removeAttribute("role");
+            document.querySelector('body').removeAttribute("style");
     }
 </script>

@@ -19,7 +19,7 @@
     <section class="container-md">
         <div class="row">
             <div class="col">
-                <div id="txt-inicio" style="margin: 20px 0px 0 calc((100% - 542px) * 0.5); max-width: 542px; height: auto;">
+                <div id="txt-inicio" style="margin: 20px 0px 0 calc((100% - 542px) * 0.5); width: 542px; height: auto;">
                     <p style="font-size: 50px; line-height: 1.2em; font-weight: 700;">
                         Transforme a gestão<br> de pequenas<br>empresas!
                     </p>
