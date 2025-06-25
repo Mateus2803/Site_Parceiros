@@ -7,7 +7,7 @@
     <title></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/_variables.scss">
-    <link rel="stylesheet" href="../css/style.css?v=1">
+    <link rel="stylesheet" href="../css/style.css?v=2">
 </head>                                       
 <body>
     
@@ -38,9 +38,7 @@
                 </div>
             </div>
             <div class="col">
-               
-                    <img src="../img/inicio_img.png" alt="PRODUTOS 03.png" id="img-inicio" style="width:572px;" fetchpriority="high">
-                
+                <img src="../img/inicio_img.png" alt="PRODUTOS 03.png" id="img-inicio" style="width:572px;" fetchpriority="high">
             </div>
         </div>
     </section>
@@ -204,7 +202,7 @@
                 </div>
             </div>
             <div class="col">
-                <img id="comp-lxkqcgs06" src="https://static.wixstatic.com/media/c246fe_c1118e6d03944a52b6bcab4621e6f75a~mv2_d_2267_1700_s_2.png/v1/crop/x_472,y_170,w_1511,h_1439/fill/w_539,h_490,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/c246fe_c1118e6d03944a52b6bcab4621e6f75a~mv2_d_2267_1700_s_2.png" alt="PRODUTOS 03.png" style="width: 539px; margin-top: 54px;">
+                <img id="comp-graficos" src="https://static.wixstatic.com/media/c246fe_c1118e6d03944a52b6bcab4621e6f75a~mv2_d_2267_1700_s_2.png/v1/crop/x_472,y_170,w_1511,h_1439/fill/w_539,h_490,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/c246fe_c1118e6d03944a52b6bcab4621e6f75a~mv2_d_2267_1700_s_2.png" style="width: 539px; margin-top: 54px;">
             </div>
         </div>
     </section>

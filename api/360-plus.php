@@ -7,7 +7,7 @@
     <title></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/_variables.scss">
-    <link rel="stylesheet" href="../css/style.css?v=1">
+    <link rel="stylesheet" href="../css/style.css?v=2">
 </head>                                       
 <body>
     
@@ -19,8 +19,8 @@
     <section class="container-md" style="margin-bottom: 40px;">
         <div class="row">
             <div class="col">
-                <div style="margin: 12px 0px 0 calc((100% - 350px) * 0.5); width: 424px; height: auto;">
-                    <img src="https://static.wixstatic.com/media/fa3eb5_d1269f920376480897a45a1147636814~mv2.png/v1/fill/w_346,h_203,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/360%20PLUS%20PLUS.png 1x, https://static.wixstatic.com/media/fa3eb5_d1269f920376480897a45a1147636814~mv2.png/v1/fill/w_692,h_406,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/360%20PLUS%20PLUS.png 2x" alt="" style="width:346px; height:203px; object-fit:cover;" width="346" height="203" fetchpriority="high">
+                <div id="txt-inicio-solucoes" style="margin: 12px 0px 0 calc((100% - 350px) * 0.5); width: 424px; height: auto;">
+                    <img class="img-logo360" src="https://static.wixstatic.com/media/fa3eb5_d1269f920376480897a45a1147636814~mv2.png/v1/fill/w_346,h_203,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/360%20PLUS%20PLUS.png 1x, https://static.wixstatic.com/media/fa3eb5_d1269f920376480897a45a1147636814~mv2.png/v1/fill/w_692,h_406,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/360%20PLUS%20PLUS.png 2x" alt="" style="width:346px; object-fit:cover;" fetchpriority="high">
                     <h1 style="font-size: 35px; font-weight: 300; line-height: 1.4;">
                         Equilíbrio entre custo e benefício.
                     </h1>
@@ -33,21 +33,19 @@
                     </p>
                 </div>
             </div>
-            <div class="col">
-                <div style="position: relative; margin: 0px 0px 65px calc((100% - 635px) * 0.5); width: 605px; height: 433px;">
-                    <img src="../img/MONITOR_PLUS.png" alt="" style="width:605px; height:565px; object-fit:cover;" width="605" height="565" fetchpriority="high">
-    
-                    <img src="https://static.wixstatic.com/media/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png/v1/fill/w_229,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png 1x, https://static.wixstatic.com/media/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png/v1/fill/w_458,h_562,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png 2x" alt="" style="position: absolute; left: 312px; top: 326px; width: 229px; height: 281px; object-fit: cover;" width="229" height="281" fetchpriority="high">
+            <div class="col" style="position: relative;">
+                <img id="img-inicio-solucoes" src="../img/MONITOR_PLUS.png" alt="" style="width:605px; object-fit:cover;" fetchpriority="high">
 
-                    <img src="https://static.wixstatic.com/media/fa3eb5_08e7db7bb60c454792ee340644df777c~mv2.png/v1/fill/w_229,h_195,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_08e7db7bb60c454792ee340644df777c~mv2.png 1x, https://static.wixstatic.com/media/fa3eb5_08e7db7bb60c454792ee340644df777c~mv2.png/v1/fill/w_458,h_390,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_08e7db7bb60c454792ee340644df777c~mv2.png 2x" alt="" style="position: absolute; left: 468px; top: 423px; width: 229px; height: 195px; object-fit: cover;" width="229" height="195" fetchpriority="high">
-                </div>
+                <img id="plus-solucoes-img1" src="https://static.wixstatic.com/media/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png/v1/fill/w_229,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png 1x, https://static.wixstatic.com/media/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png/v1/fill/w_458,h_562,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_748ae6e1f249447ca3bf5b3d4c2e545c~mv2.png 2x" alt="" style="position: absolute; left: 312px; top: 326px; width: 229px; object-fit: cover;" fetchpriority="high">
+
+                <img id="plus-solucoes-img2" src="https://static.wixstatic.com/media/fa3eb5_08e7db7bb60c454792ee340644df777c~mv2.png/v1/fill/w_229,h_195,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_08e7db7bb60c454792ee340644df777c~mv2.png 1x, https://static.wixstatic.com/media/fa3eb5_08e7db7bb60c454792ee340644df777c~mv2.png/v1/fill/w_458,h_390,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fa3eb5_08e7db7bb60c454792ee340644df777c~mv2.png 2x" alt="" style="position: absolute; left: 468px; top: 423px; width: 229px; object-fit: cover;" fetchpriority="high">
             </div>
         </div>
     </section>
 
     <section class="container-fluid m-0 p-0" style="background-color: #FFAC2E;">
         <div class="container-md" style="text-align:center; color: #fff; padding-top: 30px; padding-bottom: 20px;">
-            <div class="d-flex justify-content-center">
+            <div id="agende-demonstracao-solucoes" class="d-flex justify-content-center">
                 <p class="card-text" style="font-size: 25px; line-height: 1.6em; font-weight: bold; color: #2f2e2e; margin-right: 45px;">
                     Agende uma demonstração agora!
                 </p>
@@ -61,7 +59,7 @@
     </section>
 
     <section class="container-fluid m-0 p-0">
-        <div style="text-align:center; padding: 50px;">
+        <div class="tit-vantagens-solucoes" style="text-align:center; padding: 50px;">
             <h1 style="font-size: 66px; font-weight: 700; color:#2f2e2e;">
                 Vantagens do
             </h1>

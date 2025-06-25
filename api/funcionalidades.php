@@ -7,7 +7,7 @@
     <title></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/_variables.scss">
-    <link rel="stylesheet" href="../css/style.css?v=1">
+    <link rel="stylesheet" href="../css/style.css?v=2">
 </head>                                       
 <body>
     
@@ -19,24 +19,21 @@
     <section class="container-md">
         <div class="row">
             <div class="col">
-                <div id="animation" style="margin: 0px 0px 65px calc((100% - 572px) * 0.5); width: 572px; height: 572px;">
-                    <img src="https://static.wixstatic.com/media/fa3eb5_4792f91ae2ee4a88b1cefd16addc9cac~mv2.png/v1/fill/w_753,h_490,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/rocket_edited.png" alt="rocket_edited.png" width="753" height="490" srcset="https://static.wixstatic.com/media/fa3eb5_4792f91ae2ee4a88b1cefd16addc9cac~mv2.png/v1/fill/w_753,h_490,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/rocket_edited.png 1x, https://static.wixstatic.com/media/fa3eb5_4792f91ae2ee4a88b1cefd16addc9cac~mv2.png/v1/fill/w_1506,h_980,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/rocket_edited.png 2x" fetchpriority="high" style="width: 753px; height: 490px; object-fit: cover;">
-                </div>
+                <img id="img-inicio"  src="https://static.wixstatic.com/media/fa3eb5_4792f91ae2ee4a88b1cefd16addc9cac~mv2.png/v1/fill/w_753,h_490,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/rocket_edited.png" alt="rocket_edited.png" srcset="https://static.wixstatic.com/media/fa3eb5_4792f91ae2ee4a88b1cefd16addc9cac~mv2.png/v1/fill/w_753,h_490,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/rocket_edited.png 1x, https://static.wixstatic.com/media/fa3eb5_4792f91ae2ee4a88b1cefd16addc9cac~mv2.png/v1/fill/w_1506,h_980,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/rocket_edited.png 2x" fetchpriority="high" style="width: 753px; object-fit: cover;">
             </div>
             <div class="col">
-                <div style="margin: 152px 0px 0 calc((100% - 580px) * 0.5); text-align: right; width: 440px; height: auto;">
-                    <span style="font-size: 45px; line-height: 1.2em; color: #2F2E2E;">Decole com seu</span>
-                    <span style="font-size: 60px; line-height: 1.2em; color: #008AFC; font-weight: bold;">SISTEMA ERP</span>
-                    <br>
-                    <br>
-                    <span class="text-secondary" style="font-size: 18px; line-height: 1.2em; font-weight: normal;  color: #2f2e2e!important;">Tenha tudo de melhor que um sistema<br>de gestão pode te oferecer!</span>
+                <div id="txt-inicio-funcionalidades" style="margin: 152px 0px 0 calc((100% - 580px) * 0.5); text-align: right; width: 440px; height: auto;">
+                    <p txtspan="1" style="font-size: 45px; line-height: 0.8em; color: #2F2E2E;">Decole com seu</p>
+                    <p txtspan="2" style="font-size: 60px; line-height: 0.8em; color: #008AFC; font-weight: bold;">SISTEMA ERP</p>
+                    
+                    <p txtspan="3" class="text-secondary" style="font-size: 18px; line-height: 1.5em; font-weight: normal;  color: #2f2e2e!important;">Tenha tudo de melhor que um sistema<br>de gestão pode te oferecer!</p>
                 </div>
             </div>
         </div>
     </section>
 
     <section class="container-md">
-        <div style="max-width:895px; margin: 0 auto; text-align:center; padding: 50px; color:#000000">
+        <div id="txt-garanta-funcionalidades" style="max-width:895px; margin: 0 auto; text-align:center; padding: 50px; color:#000000">
             <h1 style="font-size: 42px; font-weight: 400;">
                 Garanta benefícios que vão acelerar o crescimento do seu negócio.
             </h1>

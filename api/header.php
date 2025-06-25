@@ -152,7 +152,7 @@
                 </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link menuNavLink" aria-current="page" href="#fale-conosco-section">Contato</a>
+                    <a class="nav-link menuNavLink" aria-current="page" onclick="myFunction();" href="inicio.php#fale-conosco-section" >Contato</a>
                 </li>
             </ul>
             <!-- Search 
@@ -163,3 +163,21 @@
         </div>
     </div>
 </div>
+<script>
+    function myFunction() {
+        var $offcanvasNavbar    = document.getElementById('offcanvasNavbar');
+        var $offcanvas_backdrop = document.querySelector('.offcanvas-backdrop').parentNode;
+
+            $offcanvas_backdrop.removeChild(document.querySelector('.offcanvas-backdrop'));
+
+            if ($offcanvasNavbar.classList.contains('show')) {
+                $offcanvasNavbar.classList.remove('show');
+            }
+
+            $offcanvasNavbar.setAttribute('aria-labelledby', 'offcanvasNavbar');
+            $offcanvasNavbar.removeAttribute('aria-modal');
+            $offcanvasNavbar.removeAttribute('role');
+            document.querySelector('body').removeAttribute('style');
+            //scrollTo('fale-conosco-section');
+    }
+</script>

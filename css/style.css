@@ -7,6 +7,7 @@
 body,html{
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
+    margin:0;
 }
 
 .modal-dialog {
@@ -200,6 +201,8 @@ body,html{
     font-weight: unset;
 }
 
+
+
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 600px) {
 
@@ -261,7 +264,7 @@ body,html{
         font-size: 68px !important;
     }
 
-    #comp-lxkqcgs06 {
+    #comp-graficos {
         margin-top: 10px;
         margin-bottom: 10px;
         width:350px!important;
@@ -315,6 +318,147 @@ body,html{
 
     .footerTxt {
         text-align: center!important;
+    }
+
+    /* SOLUÇÕES */
+    #img-inicio-solucoes {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width:350px!important;
+    }
+
+    #txt-inicio-solucoes {
+        margin: 0px 0px 20px 0px !important;
+        width:100%!important;
+    }
+
+    #txt-inicio-solucoes img {
+        position: relative !important;
+        left: 50% !important;
+        width: 246px !important;
+        margin-left: -123px!important;
+    }
+
+    #txt-inicio-solucoes h1 {
+        font-size: 28px !important;
+        font-weight: 400 !important;
+    }
+
+
+    #agende-demonstracao-solucoes {
+        display: block !important;
+    }
+
+    #agende-demonstracao-solucoes p {
+        font-size: 16px !important;
+        margin-right: 0px !important;
+    }
+
+    .tit-vantagens-solucoes {
+        padding-bottom: 10px!important;
+    }
+    
+    .tit-vantagens-solucoes h1 {
+        font-size: 38px !important;
+    }
+
+
+    #ultra-solucoes-img1 {
+        left: 210px!important;
+        top: 210px!important;
+        width: 110px!important;
+    }
+
+    #pro-solucoes-img1 {
+        left: 20px!important;
+        top: 210px!important;
+        width: 110px!important;
+    }
+
+    #plus-solucoes-img1 {
+        left: 200px!important;
+        top: 210px!important;
+        width: 110px!important;
+    }
+    #plus-solucoes-img2 {
+        left: 260px!important;
+        top: 250px!important;
+        width: 110px!important;
+    }
+
+    #evo-solucoes-img1 {
+        left: 200px!important;
+        top: 220px!important;
+        width: 100px!important;
+    }
+    #evo-solucoes-img2 {
+        left: 260px!important;
+        top: 260px!important;
+        width: 100px!important;
+    }
+    #evo-solucoes-img3 {
+        left: 130px!important;
+        top: 310px!important;
+        width: 230px!important;
+    }
+
+    #nota-solucoes-img1 {
+        left: 20px!important;
+        top: 200px!important;
+        width: 130px!important;
+    }
+
+    /* FECHA SOLUÇÕES */
+    /* -------------- */
+    
+
+    /* FUNCIONALIDADES */
+    #txt-inicio-funcionalidades {
+        margin: 20px 0px 0px 0px !important;
+        width:100%!important;
+        text-align: center !important;
+    }
+    #txt-inicio-funcionalidades p[txtspan="1"] {
+        font-size: 28px!important;
+    }
+
+    #txt-inicio-funcionalidades p[txtspan="2"] {
+        font-size: 45px!important;
+    }
+
+    #txt-inicio-funcionalidades p[txtspan="3"] {
+        font-size: 15px!important;
+    }
+
+    #txt-garanta-funcionalidades {
+        margin: 20px 0px 0px 0px !important;
+        width:100%!important;
+        padding: 0px !important;
+    }
+
+    #txt-garanta-funcionalidades h1 {
+        font-size: 28px !important;
+    }
+
+   
+
+
+    /* FECHA FUNCIONALIDADES */
+    /* --------------------- */
+
+    /* SEGMENTOS */
+    #row-segmentos {
+        padding: 0px!important;
+    }
+    #img-inicio-segmentos {
+        margin-top: 10px;
+        margin-bottom: 30px;
+        width:350px!important;
+    }
+    
+    #txt-inicio-segmentos {
+        margin: 40px 0px 20px 0px !important;
+        width:100%!important;
     }
 
 }

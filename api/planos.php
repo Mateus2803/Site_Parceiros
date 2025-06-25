@@ -7,7 +7,7 @@
     <title></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/_variables.scss">
-    <link rel="stylesheet" href="../css/style.css?v=1">
+    <link rel="stylesheet" href="../css/style.css?v=2">
 </head>                                       
 <body>
     
@@ -17,7 +17,7 @@
     ?>
 
     <section class="container-md">
-        <div style="max-width:895px; margin: 0 auto; text-align:center; padding: 50px; color:#000000;">
+        <div id="txt-garanta-funcionalidades" style="max-width:895px; margin: 0 auto; text-align:center; padding: 50px; color:#000000;">
             <h1 style="font-size: 53px; line-height: 1.4em; font-weight: 400;">
                 Temos o plano perfeito para cada Negócio!
             </h1>

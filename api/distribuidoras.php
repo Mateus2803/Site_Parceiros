@@ -7,7 +7,7 @@
     <title></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/_variables.scss">
-    <link rel="stylesheet" href="../css/style.css?v=1">
+    <link rel="stylesheet" href="../css/style.css?v=2">
 </head>                                       
 <body>
     
@@ -39,9 +39,9 @@
     </section>
 
     <section class="container-md">
-        <div class="row" style="padding: 50px;">
+        <div id="row-segmentos" class="row" style="padding: 50px;">
             <div class="col">
-                <div style="margin: 62px 0px 0 calc((100% - 350px) * 0.5); width: 390px; height: auto;">
+                <div id="txt-inicio-segmentos" style="margin: 62px 0px 0 calc((100% - 350px) * 0.5); width: 390px; height: auto;">
                     <p class="text-secondary" style="font-size: 17px; line-height: 1.4em; font-weight: 400; color: #2f2e2e!important;">                        
                         Sistema com controle de estoque que ajuda a sua distribuidora a crescer.<br>Automatize a gestão da sua distribuidora.
                     </p>
@@ -57,9 +57,7 @@
                 </div>
             </div>
             <div class="col">
-                <div style="margin: 0px 0px 65px calc((100% - 488) * 0.5); width: 488px; height: 485px;">
-                    <img fetchpriority="high" sizes="488px" srcset="https://static.wixstatic.com/media/fa3eb5_df91bc3e4ee04711920b49aa3df6492b~mv2.png/v1/fill/w_488,h_485,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DISTRIBUIDORA.png 1x, https://static.wixstatic.com/media/fa3eb5_df91bc3e4ee04711920b49aa3df6492b~mv2.png/v1/fill/w_976,h_970,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/DISTRIBUIDORA.png 2x" id="img_comp-m2n80ovc" src="https://static.wixstatic.com/media/fa3eb5_df91bc3e4ee04711920b49aa3df6492b~mv2.png/v1/fill/w_488,h_485,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DISTRIBUIDORA.png" alt="DISTRIBUIDORA.png" class="BI8PVQ Tj01hh" width="488" height="485" style="object-fit: cover;">
-                </div>
+                <img id="img-inicio-segmentos" fetchpriority="high" sizes="488px" srcset="https://static.wixstatic.com/media/fa3eb5_df91bc3e4ee04711920b49aa3df6492b~mv2.png/v1/fill/w_488,h_485,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DISTRIBUIDORA.png 1x, https://static.wixstatic.com/media/fa3eb5_df91bc3e4ee04711920b49aa3df6492b~mv2.png/v1/fill/w_976,h_970,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/DISTRIBUIDORA.png 2x" id="img_comp-m2n80ovc" src="https://static.wixstatic.com/media/fa3eb5_df91bc3e4ee04711920b49aa3df6492b~mv2.png/v1/fill/w_488,h_485,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DISTRIBUIDORA.png" alt="DISTRIBUIDORA.png" class="BI8PVQ Tj01hh" width="488" style="object-fit: cover;">
             </div>
         </div>
     </section>
