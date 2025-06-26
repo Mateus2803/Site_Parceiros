@@ -7,24 +7,27 @@
     <title></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/_variables.scss">
-    <link rel="stylesheet" href="../css/style.css?v=2">
+    <link rel="stylesheet" href="../css/style.css?v=3">
 </head>                                       
 <body>
     
     <?php
-    $home = "active";
+    $inicio = "active";
     include('header.php');
     ?>
 
-    <section class="container-md">
+    <section id="section-inicio" class="container-md" style="padding-top: 80px; padding-bottom: 80px;">
         <div class="row">
             <div class="col">
-                <div id="txt-inicio" style="margin: 20px 0px 0 calc((100% - 542px) * 0.5); width: 542px; height: auto;">
-                    <p style="font-size: 50px; line-height: 1.2em; font-weight: 700;">
+                <img src="../img/inicio_img.png" alt="PRODUTOS 03.png" id="img-inicio" style="width:572px;" fetchpriority="high">
+            </div>
+            <div class="col">
+                <div id="txt-inicio" style="margin: 20px 0px 0 calc((100% - 600px) * 0.5); width: 600px; height: auto;">
+                    <p style="font-family: 'Montserrat', sans-serif; font-size: 56px; line-height: 1.2em; font-weight: normal;">
                         Transforme a gestão<br> de pequenas<br>empresas!
                     </p>
                     
-                    <span class="text-secondary" style="font-size: 18px; line-height: 1.2em;">
+                    <span class="text-secondary" style="font-size: 20px; line-height: 1.6em;">
                         Soluções completas e inovadoras que simplificam a rotina do comércio, com automação eficiente para emissão de notas fiscais, controle de estoque e gestão financeira.
                     </span>
                     <br>
@@ -36,9 +39,6 @@
                         </button>
                     </a>
                 </div>
-            </div>
-            <div class="col">
-                <img src="../img/inicio_img.png" alt="PRODUTOS 03.png" id="img-inicio" style="width:572px;" fetchpriority="high">
             </div>
         </div>
     </section>

@@ -3,7 +3,7 @@
     include('dados-parceiro.php');
 
     //Menu
-    if(!isset($inicio))         { $inicio            = ""; }
+    if(!isset($inicio))         { $inicio          = ""; }
     if(!isset($funcionalidades)){ $funcionalidades = ""; }
     if(!isset($planos))         { $planos          = ""; }
 
@@ -85,11 +85,13 @@
         </ul>
         </div>
         <div class="d-flex navbar-nav" style="min-width: 184px;">
-           <a href="<?php echo $link_whats.$text_whats ;?>" target="_blank">
-                <button type="button" id="btn-quero-conhecer" class="btn btn-primary rounded-pill">
-                    QUERO CONHECER
-                </button>
-            </a>
+            <?php if($inicio == ""){ ?>
+                <a href="<?php echo $link_whats.$text_whats ;?>" target="_blank">
+                    <button type="button" id="btn-quero-conhecer" class="btn btn-primary rounded-pill">
+                        QUERO CONHECER
+                    </button>
+                </a>
+            <?php } ?>
         </div>
         </div>
 

@@ -205,6 +205,9 @@ body,html{
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 600px) {
+    #section-inicio {
+        padding-top: 20px!important;
+    }
 
     #txt-inicio {
         margin: 0px 0px 20px 0px !important;
